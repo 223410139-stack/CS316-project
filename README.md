@@ -2,7 +2,7 @@
 # Cardiovascular Disease Prediction Using Machine Learning
 
 ## 1. Project Overview
-This project aims to develop machine learning models to predict cardiovascular disease outcomes using patient medical and clinical information. The project explores different classification algorithms and compares their performance to identify the most effective model.
+This project aims to develop machine learning models to predict likelihood of death due to cardiovascular disease using patient medical and clinical information. The project explores different classification algorithms and compares their performance to identify the most effective model.
 
 ## 2. Dataset
 The project uses the Heart Failure Clinical Records Dataset.
@@ -26,7 +26,7 @@ The target variable is `DEATH_EVENT`, which indicates whether the patient died d
 The preprocessing stage includes:
 - Checking and cleaning the dataset.
 - Examining missing values and invalid data.
-- Handling outliers, if applicable.
+- Handling outliers, if needed.
 - Preparing features for model training.
 - Splitting the dataset into training and testing sets.
 
@@ -70,9 +70,9 @@ The results showed differences in accuracy, precision, recall, and F1-score. The
 5. Review the model training, evaluation, and comparison results.
 
 ## 9. Team Members
-- Member 1: [Name]
-- Member 2: [Name]
-- Member 3: [Name]
+- Member 1: Munira Alfaris
+- Member 2: Loulouah Alnafea
+- Member 3: Aljawharah bin obeyed
 
 ## 10. Conclusion
 This project demonstrates the use of machine learning classification algorithms for predicting mortality outcomes among patients with heart failure. The results provide a comparison of different models and highlight opportunities for further improvement.
